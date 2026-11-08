@@ -1,0 +1,11 @@
+*.exe
+*.test
+*.prof
+*.out
+.DS_Store
+.idea/
+.vscode/
+dist/
+coverage/
+*.ocap
+!docs/examples/*.ocap
